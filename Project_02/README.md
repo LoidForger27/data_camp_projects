@@ -34,7 +34,7 @@ This returns the percentage of simulations where the final step was ≥ 60. For 
 Estimated chance of reaching ≥ 60 steps: 77.60% (n=500)
 ```
 ## 🚀 Next Steps
-Increase simulations (e.g., 5,000 or 50,000) for more precise results.
-Experiment with different fall probabilities or number of moves.
-Compare Monte Carlo estimates with theoretical/analytical approaches.
-Visualize individual sample walks for more intuition.
+- Increase simulations (e.g., 5,000 or 50,000) for more precise results.
+- Experiment with different fall probabilities or number of moves.
+- Compare Monte Carlo estimates with theoretical/analytical approaches.
+- Visualize individual sample walks for more intuition.
