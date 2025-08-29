@@ -30,11 +30,3 @@ np.mean(ends >= 60) * 100
 This returns the percentage of simulations where the final step was ≥ 60. For example, a sample run might output:
 
 Estimated chance of reaching ≥ 60 steps: 77.60% (n=500)
-
-## 🚀 Next Steps
-
-Increase simulations (e.g., 5,000 or 50,000) for more precise results.
-
-Experiment with different fall probabilities or number of moves.
-
-Visualize individual sample walks for more intuition.
