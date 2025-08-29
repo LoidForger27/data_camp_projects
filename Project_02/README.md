@@ -31,7 +31,7 @@ This returns the percentage of simulations where the final step was ≥ 60. For 
 
 Estimated chance of reaching ≥ 60 steps: 77.60% (n=500)
 
-🚀 Next Steps
+## 🚀 Next Steps
 
 Increase simulations (e.g., 5,000 or 50,000) for more precise results.
 
