@@ -4,7 +4,7 @@
 This project explores Netflix’s catalog of movies from the 1990s. The goal is to practice data cleaning, filtering, and exploratory data analysis (EDA) using Python and pandas, and to answer key questions about movie duration and genres.  
 
 ## 📂 Files  
-- `Project_01_Investigating_Netflix_Movies.ipynb` → Jupyter Notebook with full analysis  
+- `Project_01_investigatingnetflixmovies.ipynb` → Jupyter Notebook with full analysis  
 - `netflix_data.csv` (not included) → Dataset required to run the notebook  
 
 ## 🛠️ Tools & Skills  
@@ -30,4 +30,4 @@ This project explores Netflix’s catalog of movies from the 1990s. The goal is 
 
 - **Project_01 – Investigating Netflix Movies**  
   Analyzed Netflix’s 1990s catalog using Python and pandas. Explored duration distributions, identified short action films, and ranked top genres.  
-  → [Notebook](Project_01/Project_01_Investigating_Netflix_Movies.ipynb)
+  → [Notebook](Project_01/Project_01_investigatingnetflixmovies.ipynb)
