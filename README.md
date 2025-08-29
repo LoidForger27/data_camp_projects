@@ -17,7 +17,7 @@ This repository contains my completed projects from DataCamp’s Data Analytics 
 
 Project_01 – Investigating Netflix Movies
 
-Project_02 – TBA
+Project_02 – Empire State Dice Game
 
 Project_03 – TBA
 
