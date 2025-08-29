@@ -23,20 +23,18 @@ This project simulates 500 random walks of 100 steps each, following special dic
 - Histogram visualization highlights the spread of ending positions across 500 simulations.  
 
 ## ✅ Result  
-The probability of reaching at least **60 steps** is estimated by:  
+The probability of reaching at least **60 steps** is estimated by: 
 
+```python
 np.mean(ends >= 60) * 100
+```
+This returns the percentage of simulations where the final step was ≥ 60. For example, a sample run might output:
 
-#### This returns the percentage of simulations where the final step was ≥ 60. For example, a sample run might output:
-
+```python
 Estimated chance of reaching ≥ 60 steps: 77.60% (n=500)
-
+```
 ## 🚀 Next Steps
-
 Increase simulations (e.g., 5,000 or 50,000) for more precise results.
-
 Experiment with different fall probabilities or number of moves.
-
 Compare Monte Carlo estimates with theoretical/analytical approaches.
-
 Visualize individual sample walks for more intuition.
