@@ -18,7 +18,7 @@ This project explores Netflix’s catalog of movies from the 1990s. The goal is 
 2. How many short action films (<90 minutes) were released in the 1990s?  
 3. What were the most common genres during that decade?  
 
-## 📊 Insights (Sample)  
+## 📊 Insights  
 - Most 1990s Netflix movies cluster around 90–120 minutes.  
 - Only a small number of action films were shorter than 90 minutes.  
 - Drama and comedy dominated the decade’s genre distribution.  
